@@ -26,8 +26,8 @@ I'm currently pursuing my B Tech in Artificial Intelligence and Data Science. Pa
 ---
 
 ## 📊 GitHub Stats
-![Astlin's GitHub stats](https://github-readme-stats.vercel.app/api?username=AstlinDijo&show_icons=true&theme=github_dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AstlinDijo&layout=compact&theme=github_dark)
+![Astlin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Astlin-Dijo&show_icons=true&theme=github_dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Astlin-Dijo&layout=compact&theme=github_dark)
 
 ---
 
